@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Koenkk/zigbee2mqtt.git"
+    "url": "git+https://github.com/bienvangm/zigbee2mqtt.git"
   },
   "engines": {
     "node": "^10 || ^12 || ^13"
@@ -29,9 +29,9 @@
   "author": "Koen Kanters",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/Koenkk/zigbee2mqtt/issues"
+    "url": "https://github.com/bienvangm/zigbee2mqtt/issues"
   },
-  "homepage": "https://koenkk.github.io/zigbee2mqtt",
+  "homepage": "https://github.com/bienvangm/zigbee2mqtt",
   "dependencies": {
     "ajv": "*",
     "debounce": "*",
